@@ -15,7 +15,6 @@ books.</p>
 # Software Required :
 Operating System -Windows <br>
 Technology – J2EE <br>
-
 Framework – Java Servlet & JSP <br>
 Web Technology - HTML & CSS <br>
 Client-Side Scripting – JavaScript <br>
